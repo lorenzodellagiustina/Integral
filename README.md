@@ -1,2 +1,2 @@
 # Integral
-Find the integral of a function
+Find the integral of a rational function
